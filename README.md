@@ -17,6 +17,6 @@ Before running the app, ensure that you have the following installed:
 - Dart SDK: [Installation Guide](https://dart.dev/get-dart)
 
 ## Technologies
-*Flutter & dart
-*Paypal integration
-*NFC integration
+* Flutter & dart
+* Paypal integration
+* NFC integration
